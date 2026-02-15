@@ -40,4 +40,5 @@ Proje Sunumu
 Sistemin detaylı çalışma mantığını ve ekran arayüzlerini incelemek için tanıtım videosuna göz atabilirsiniz:
 
 
-Youtube: Kütüphane Sistemi Tanıtımı
+Youtube Linki: https://youtu.be/wJQrmm9_RWM
+
