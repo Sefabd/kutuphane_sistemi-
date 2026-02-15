@@ -1,14 +1,11 @@
-Kütüphane projenin README dosyasını daha profesyonel ve kurumsal bir görünüme kavuşturalım. Markdown formatını kullanarak başlıkları belirginleştirdim ve teknik detayları listeler halinde organize ettim.
-
-Aşağıdaki metni kopyalayıp GitHub'daki README dosyanla değiştirebilirsin:
 
 Kütüphane Yönetim Sistemi (Library Management System)
 Java ve MySQL kullanılarak geliştirilmiş, tam kapsamlı bir kütüphane yönetim sistemidir. Proje, veritabanı düzeyinde iş kuralları ve veri bütünlüğü üzerine odaklanmaktadır.
-+4
+
 
 Proje Hakkında
 Bu sistem; üyelerin kimlik bilgilerinin, kitap stoklarının ve ödünç verme süreçlerinin yönetilmesini sağlar. Ödünç verme sürecinde stok kontrolü, gecikme takibi ve ceza hesaplamasını içeren tam bir iş akışına sahiptir.
-+1
+
 
 Temel Özellikler
 
@@ -34,7 +31,7 @@ Veritabanı Programlama (Backend Logic)
 
 
 Saklı Yordamlar (Stored Procedures): Ödünç verme süreci (sp_YeniOduncVer), teslim alma ve ceza yönetimi (sp_KitapTeslimAl) ile üye özeti raporlama (sp_UyeOzetRapor).
-+1
+
 
 
 Tetikleyiciler (Triggers): Stok miktarının otomatik güncellenmesi, ceza tahakkuk ettiğinde üye borcunun güncellenmesi ve kritik işlemler için log kayıtlarının oluşturulması.
