@@ -26,3 +26,4 @@ Hata riskini minimuma indirmek amacıyla iş mantığı doğrudan SQL düzeyinde
 Sistemin çalışma mantığını ve ekran arayüzlerini incelemek için tanıtım videosuna göz atabilirsiniz:
 
 **Video Linki:** https://youtu.be/wJQrmm9_RWM
+**Geliştirenler: Sefa Bodur & Batuhan Gözüyukarı
